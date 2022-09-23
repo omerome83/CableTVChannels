@@ -1,0 +1,1467 @@
+[
+  {
+    "GuideNumber": "45",
+    "GuideName": "TVLAND",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v45"
+  },
+  {
+    "GuideNumber": "201",
+    "GuideName": "WJZDT2",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v201"
+  },
+  {
+    "GuideNumber": "202",
+    "GuideName": "WNUVDT3",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v202"
+  },
+  {
+    "GuideNumber": "203",
+    "GuideName": "WMARDT3",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v203"
+  },
+  {
+    "GuideNumber": "205",
+    "GuideName": "WMARDT4",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v205"
+  },
+  {
+    "GuideNumber": "206",
+    "GuideName": "WBFFDT3",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v206"
+  },
+  {
+    "GuideNumber": "207",
+    "GuideName": "WNUVDT2",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v207"
+  },
+  {
+    "GuideNumber": "208",
+    "GuideName": "WBALDT2",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v208"
+  },
+  {
+    "GuideNumber": "210",
+    "GuideName": "WBFFDT4",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v210"
+  },
+  {
+    "GuideNumber": "211",
+    "GuideName": "WJZDT3",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v211"
+  },
+  {
+    "GuideNumber": "215",
+    "GuideName": "SBND",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v215"
+  },
+  {
+    "GuideNumber": "216",
+    "GuideName": "GEM",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v216"
+  },
+  {
+    "GuideNumber": "263",
+    "GuideName": "WHUTDT2",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v263"
+  },
+  {
+    "GuideNumber": "265",
+    "GuideName": "WETADT2",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "HD": 1,
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v265"
+  },
+  {
+    "GuideNumber": "266",
+    "GuideName": "WETADT3",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v266"
+  },
+  {
+    "GuideNumber": "268",
+    "GuideName": "WFPTDT4",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v268"
+  },
+  {
+    "GuideNumber": "269",
+    "GuideName": "MPTDT3",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v269"
+  },
+  {
+    "GuideNumber": "270",
+    "GuideName": "WETADT4",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v270"
+  },
+  {
+    "GuideNumber": "286",
+    "GuideName": "ION",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v286"
+  },
+  {
+    "GuideNumber": "287",
+    "GuideName": "DYSTR",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v287"
+  },
+  {
+    "GuideNumber": "288",
+    "GuideName": "POSTV",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v288"
+  },
+  {
+    "GuideNumber": "290",
+    "GuideName": "TBN",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v290"
+  },
+  {
+    "GuideNumber": "294",
+    "GuideName": "IMPCNET",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v294"
+  },
+  {
+    "GuideNumber": "295",
+    "GuideName": "INSP",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v295"
+  },
+  {
+    "GuideNumber": "297",
+    "GuideName": "INSPRSD",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v297"
+  },
+  {
+    "GuideNumber": "401",
+    "GuideName": "MC01",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v401"
+  },
+  {
+    "GuideNumber": "402",
+    "GuideName": "MC02",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v402"
+  },
+  {
+    "GuideNumber": "403",
+    "GuideName": "MC03",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v403"
+  },
+  {
+    "GuideNumber": "404",
+    "GuideName": "MC04",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v404"
+  },
+  {
+    "GuideNumber": "405",
+    "GuideName": "MC05",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v405"
+  },
+  {
+    "GuideNumber": "406",
+    "GuideName": "MC06",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v406"
+  },
+  {
+    "GuideNumber": "407",
+    "GuideName": "MC07",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v407"
+  },
+  {
+    "GuideNumber": "408",
+    "GuideName": "MC08",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v408"
+  },
+  {
+    "GuideNumber": "409",
+    "GuideName": "MC09",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v409"
+  },
+  {
+    "GuideNumber": "410",
+    "GuideName": "MC10",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v410"
+  },
+  {
+    "GuideNumber": "411",
+    "GuideName": "MC11",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v411"
+  },
+  {
+    "GuideNumber": "412",
+    "GuideName": "MC12",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v412"
+  },
+  {
+    "GuideNumber": "413",
+    "GuideName": "MC13",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v413"
+  },
+  {
+    "GuideNumber": "414",
+    "GuideName": "MC14",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v414"
+  },
+  {
+    "GuideNumber": "415",
+    "GuideName": "MC15",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v415"
+  },
+  {
+    "GuideNumber": "416",
+    "GuideName": "MC16",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v416"
+  },
+  {
+    "GuideNumber": "417",
+    "GuideName": "MC17",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v417"
+  },
+  {
+    "GuideNumber": "418",
+    "GuideName": "MC18",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v418"
+  },
+  {
+    "GuideNumber": "419",
+    "GuideName": "MC19",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v419"
+  },
+  {
+    "GuideNumber": "420",
+    "GuideName": "MC20",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v420"
+  },
+  {
+    "GuideNumber": "421",
+    "GuideName": "MC21",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v421"
+  },
+  {
+    "GuideNumber": "422",
+    "GuideName": "MC22",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v422"
+  },
+  {
+    "GuideNumber": "423",
+    "GuideName": "MC23",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v423"
+  },
+  {
+    "GuideNumber": "424",
+    "GuideName": "MC24",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v424"
+  },
+  {
+    "GuideNumber": "425",
+    "GuideName": "MC25",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v425"
+  },
+  {
+    "GuideNumber": "426",
+    "GuideName": "MC26",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v426"
+  },
+  {
+    "GuideNumber": "427",
+    "GuideName": "MC27",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v427"
+  },
+  {
+    "GuideNumber": "428",
+    "GuideName": "MC28",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v428"
+  },
+  {
+    "GuideNumber": "429",
+    "GuideName": "MC29",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v429"
+  },
+  {
+    "GuideNumber": "430",
+    "GuideName": "MC30",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v430"
+  },
+  {
+    "GuideNumber": "431",
+    "GuideName": "MC31",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v431"
+  },
+  {
+    "GuideNumber": "432",
+    "GuideName": "MC32",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v432"
+  },
+  {
+    "GuideNumber": "433",
+    "GuideName": "MC33",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v433"
+  },
+  {
+    "GuideNumber": "434",
+    "GuideName": "MC34",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v434"
+  },
+  {
+    "GuideNumber": "435",
+    "GuideName": "MC35",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v435"
+  },
+  {
+    "GuideNumber": "436",
+    "GuideName": "MC36",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v436"
+  },
+  {
+    "GuideNumber": "437",
+    "GuideName": "MC37",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v437"
+  },
+  {
+    "GuideNumber": "438",
+    "GuideName": "MC38",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v438"
+  },
+  {
+    "GuideNumber": "439",
+    "GuideName": "MC39",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v439"
+  },
+  {
+    "GuideNumber": "440",
+    "GuideName": "MC40",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v440"
+  },
+  {
+    "GuideNumber": "441",
+    "GuideName": "MC41",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v441"
+  },
+  {
+    "GuideNumber": "442",
+    "GuideName": "MC42",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v442"
+  },
+  {
+    "GuideNumber": "443",
+    "GuideName": "MC43",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v443"
+  },
+  {
+    "GuideNumber": "444",
+    "GuideName": "MC44",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v444"
+  },
+  {
+    "GuideNumber": "445",
+    "GuideName": "MC45",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v445"
+  },
+  {
+    "GuideNumber": "446",
+    "GuideName": "MC46",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v446"
+  },
+  {
+    "GuideNumber": "447",
+    "GuideName": "MC47",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v447"
+  },
+  {
+    "GuideNumber": "448",
+    "GuideName": "MC48",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v448"
+  },
+  {
+    "GuideNumber": "449",
+    "GuideName": "MC49",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v449"
+  },
+  {
+    "GuideNumber": "450",
+    "GuideName": "MC50",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v450"
+  },
+  {
+    "GuideNumber": "561",
+    "GuideName": "WFDC",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v561"
+  },
+  {
+    "GuideNumber": "568",
+    "GuideName": "WQAWLP",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v568"
+  },
+  {
+    "GuideNumber": "599",
+    "GuideName": "ENLUSA",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v599"
+  },
+  {
+    "GuideNumber": "713",
+    "GuideName": "BTNOF1",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v713"
+  },
+  {
+    "GuideNumber": "715",
+    "GuideName": "BIGMDVA",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v715"
+  },
+  {
+    "GuideNumber": "735",
+    "GuideName": "TENNIS",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v735"
+  },
+  {
+    "GuideNumber": "799",
+    "GuideName": "WMPT2HD",
+    "VideoCodec": "H264",
+    "AudioCodec": "AC3",
+    "HD": 1,
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v799"
+  },
+  {
+    "GuideNumber": "800",
+    "GuideName": "WETADT",
+    "VideoCodec": "H264",
+    "AudioCodec": "AC3",
+    "HD": 1,
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v800"
+  },
+  {
+    "GuideNumber": "802",
+    "GuideName": "WMARDT",
+    "VideoCodec": "H264",
+    "AudioCodec": "AC3",
+    "HD": 1,
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v802"
+  },
+  {
+    "GuideNumber": "803",
+    "GuideName": "WBFFDT2",
+    "VideoCodec": "H264",
+    "AudioCodec": "AC3",
+    "HD": 1,
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v803"
+  },
+  {
+    "GuideNumber": "804",
+    "GuideName": "WNUVDT",
+    "VideoCodec": "H264",
+    "AudioCodec": "AC3",
+    "HD": 1,
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v804"
+  },
+  {
+    "GuideNumber": "805",
+    "GuideName": "WBFFDT",
+    "VideoCodec": "H264",
+    "AudioCodec": "AC3",
+    "HD": 1,
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v805"
+  },
+  {
+    "GuideNumber": "806",
+    "GuideName": "QVCHD",
+    "VideoCodec": "H264",
+    "AudioCodec": "AC3",
+    "HD": 1,
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v806"
+  },
+  {
+    "GuideNumber": "807",
+    "GuideName": "WHUTDT",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "HD": 1,
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v807"
+  },
+  {
+    "GuideNumber": "808",
+    "GuideName": "HSNHD",
+    "VideoCodec": "H264",
+    "AudioCodec": "AC3",
+    "HD": 1,
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v808"
+  },
+  {
+    "GuideNumber": "811",
+    "GuideName": "WBALDT",
+    "VideoCodec": "H264",
+    "AudioCodec": "AC3",
+    "HD": 1,
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v811"
+  },
+  {
+    "GuideNumber": "812",
+    "GuideName": "MPTHD",
+    "VideoCodec": "H264",
+    "AudioCodec": "AC3",
+    "HD": 1,
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v812"
+  },
+  {
+    "GuideNumber": "813",
+    "GuideName": "WJZDT",
+    "VideoCodec": "H264",
+    "AudioCodec": "AC3",
+    "HD": 1,
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v813"
+  },
+  {
+    "GuideNumber": "814",
+    "GuideName": "BLOOMHD",
+    "VideoCodec": "H264",
+    "AudioCodec": "AC3",
+    "HD": 1,
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v814"
+  },
+  {
+    "GuideNumber": "815",
+    "GuideName": "WEATHHD",
+    "VideoCodec": "H264",
+    "AudioCodec": "AC3",
+    "HD": 1,
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v815"
+  },
+  {
+    "GuideNumber": "816",
+    "GuideName": "HLNHD",
+    "VideoCodec": "H264",
+    "AudioCodec": "AC3",
+    "HD": 1,
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v816"
+  },
+  {
+    "GuideNumber": "817",
+    "GuideName": "CNNHD",
+    "VideoCodec": "H264",
+    "AudioCodec": "AC3",
+    "HD": 1,
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v817"
+  },
+  {
+    "GuideNumber": "818",
+    "GuideName": "MNBCHD",
+    "VideoCodec": "H264",
+    "AudioCodec": "AC3",
+    "HD": 1,
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v818"
+  },
+  {
+    "GuideNumber": "819",
+    "GuideName": "CNBCHD",
+    "VideoCodec": "H264",
+    "AudioCodec": "AC3",
+    "HD": 1,
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v819"
+  },
+  {
+    "GuideNumber": "820",
+    "GuideName": "FNCHD",
+    "VideoCodec": "H264",
+    "AudioCodec": "AC3",
+    "HD": 1,
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v820"
+  },
+  {
+    "GuideNumber": "821",
+    "GuideName": "FBNHD",
+    "VideoCodec": "H264",
+    "AudioCodec": "AC3",
+    "HD": 1,
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v821"
+  },
+  {
+    "GuideNumber": "823",
+    "GuideName": "USAHD",
+    "VideoCodec": "H264",
+    "AudioCodec": "AC3",
+    "HD": 1,
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v823"
+  },
+  {
+    "GuideNumber": "824",
+    "GuideName": "FXHD",
+    "VideoCodec": "H264",
+    "AudioCodec": "AC3",
+    "HD": 1,
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v824"
+  },
+  {
+    "GuideNumber": "825",
+    "GuideName": "TNTHD",
+    "VideoCodec": "H264",
+    "AudioCodec": "AC3",
+    "HD": 1,
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v825"
+  },
+  {
+    "GuideNumber": "826",
+    "GuideName": "TBSHD",
+    "VideoCodec": "H264",
+    "AudioCodec": "AC3",
+    "HD": 1,
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v826"
+  },
+  {
+    "GuideNumber": "828",
+    "GuideName": "CCHD",
+    "VideoCodec": "H264",
+    "AudioCodec": "AC3",
+    "HD": 1,
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v828"
+  },
+  {
+    "GuideNumber": "829",
+    "GuideName": "SYFYHD",
+    "VideoCodec": "H264",
+    "AudioCodec": "AC3",
+    "HD": 1,
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v829"
+  },
+  {
+    "GuideNumber": "830",
+    "GuideName": "HALLHD",
+    "VideoCodec": "H264",
+    "AudioCodec": "AC3",
+    "HD": 1,
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v830"
+  },
+  {
+    "GuideNumber": "831",
+    "GuideName": "AETVHD",
+    "VideoCodec": "H264",
+    "AudioCodec": "AC3",
+    "HD": 1,
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v831"
+  },
+  {
+    "GuideNumber": "832",
+    "GuideName": "BRAVOHD",
+    "VideoCodec": "H264",
+    "AudioCodec": "AC3",
+    "HD": 1,
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v832"
+  },
+  {
+    "GuideNumber": "833",
+    "GuideName": "EHD",
+    "VideoCodec": "H264",
+    "AudioCodec": "AC3",
+    "HD": 1,
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v833"
+  },
+  {
+    "GuideNumber": "835",
+    "GuideName": "LIFEHD",
+    "VideoCodec": "H264",
+    "AudioCodec": "AC3",
+    "HD": 1,
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v835"
+  },
+  {
+    "GuideNumber": "836",
+    "GuideName": "WEHD",
+    "VideoCodec": "H264",
+    "AudioCodec": "AC3",
+    "HD": 1,
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v836"
+  },
+  {
+    "GuideNumber": "837",
+    "GuideName": "TLCHD",
+    "VideoCodec": "H264",
+    "AudioCodec": "AC3",
+    "HD": 1,
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v837"
+  },
+  {
+    "GuideNumber": "838",
+    "GuideName": "HGTVD",
+    "VideoCodec": "H264",
+    "AudioCodec": "AC3",
+    "HD": 1,
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v838"
+  },
+  {
+    "GuideNumber": "839",
+    "GuideName": "FOODHD",
+    "VideoCodec": "H264",
+    "AudioCodec": "AC3",
+    "HD": 1,
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v839"
+  },
+  {
+    "GuideNumber": "840",
+    "GuideName": "TRAVHD",
+    "VideoCodec": "H264",
+    "AudioCodec": "AC3",
+    "HD": 1,
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v840"
+  },
+  {
+    "GuideNumber": "841",
+    "GuideName": "TRUTVHD",
+    "VideoCodec": "H264",
+    "AudioCodec": "AC3",
+    "HD": 1,
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v841"
+  },
+  {
+    "GuideNumber": "842",
+    "GuideName": "FXXHD",
+    "VideoCodec": "H264",
+    "AudioCodec": "AC3",
+    "HD": 1,
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v842"
+  },
+  {
+    "GuideNumber": "844",
+    "GuideName": "MASN2HD",
+    "VideoCodec": "H264",
+    "AudioCodec": "AC3",
+    "HD": 1,
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v844"
+  },
+  {
+    "GuideNumber": "845",
+    "GuideName": "MASNHD",
+    "VideoCodec": "H264",
+    "AudioCodec": "AC3",
+    "HD": 1,
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v845"
+  },
+  {
+    "GuideNumber": "846",
+    "GuideName": "NBSBALH",
+    "VideoCodec": "H264",
+    "AudioCodec": "AC3",
+    "HD": 1,
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v846"
+  },
+  {
+    "GuideNumber": "849",
+    "GuideName": "GOLFHD",
+    "VideoCodec": "H264",
+    "AudioCodec": "AC3",
+    "HD": 1,
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v849"
+  },
+  {
+    "GuideNumber": "850",
+    "GuideName": "ESPNHD",
+    "VideoCodec": "H264",
+    "AudioCodec": "AC3",
+    "HD": 1,
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v850"
+  },
+  {
+    "GuideNumber": "851",
+    "GuideName": "ESPN2HD",
+    "VideoCodec": "H264",
+    "AudioCodec": "AC3",
+    "HD": 1,
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v851"
+  },
+  {
+    "GuideNumber": "855",
+    "GuideName": "BIGMVHD",
+    "VideoCodec": "H264",
+    "AudioCodec": "AC3",
+    "HD": 1,
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v855"
+  },
+  {
+    "GuideNumber": "856",
+    "GuideName": "NBSWPHD",
+    "VideoCodec": "H264",
+    "AudioCodec": "AC3",
+    "HD": 1,
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v856"
+  },
+  {
+    "GuideNumber": "857",
+    "GuideName": "FS1HD",
+    "VideoCodec": "H264",
+    "AudioCodec": "AC3",
+    "HD": 1,
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v857"
+  },
+  {
+    "GuideNumber": "862",
+    "GuideName": "TENISHD",
+    "VideoCodec": "H264",
+    "AudioCodec": "AC3",
+    "HD": 1,
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v862"
+  },
+  {
+    "GuideNumber": "865",
+    "GuideName": "TVONEHD",
+    "VideoCodec": "H264",
+    "AudioCodec": "AC3",
+    "HD": 1,
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v865"
+  },
+  {
+    "GuideNumber": "866",
+    "GuideName": "BETHD",
+    "VideoCodec": "H264",
+    "AudioCodec": "AC3",
+    "HD": 1,
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v866"
+  },
+  {
+    "GuideNumber": "868",
+    "GuideName": "APLHD",
+    "VideoCodec": "H264",
+    "AudioCodec": "AC3",
+    "HD": 1,
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v868"
+  },
+  {
+    "GuideNumber": "869",
+    "GuideName": "DSCHD",
+    "VideoCodec": "H264",
+    "AudioCodec": "AC3",
+    "HD": 1,
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v869"
+  },
+  {
+    "GuideNumber": "870",
+    "GuideName": "MTHD",
+    "VideoCodec": "H264",
+    "AudioCodec": "AC3",
+    "HD": 1,
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v870"
+  },
+  {
+    "GuideNumber": "871",
+    "GuideName": "NGCHD",
+    "VideoCodec": "H264",
+    "AudioCodec": "AC3",
+    "HD": 1,
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v871"
+  },
+  {
+    "GuideNumber": "875",
+    "GuideName": "HSTRYHD",
+    "VideoCodec": "H264",
+    "AudioCodec": "AC3",
+    "HD": 1,
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v875"
+  },
+  {
+    "GuideNumber": "879",
+    "GuideName": "NIKHD",
+    "VideoCodec": "H264",
+    "AudioCodec": "AC3",
+    "HD": 1,
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v879"
+  },
+  {
+    "GuideNumber": "880",
+    "GuideName": "DISNHD",
+    "VideoCodec": "H264",
+    "AudioCodec": "AC3",
+    "HD": 1,
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v880"
+  },
+  {
+    "GuideNumber": "881",
+    "GuideName": "FREFMHD",
+    "VideoCodec": "H264",
+    "AudioCodec": "AC3",
+    "HD": 1,
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v881"
+  },
+  {
+    "GuideNumber": "882",
+    "GuideName": "MTVLIVE",
+    "VideoCodec": "H264",
+    "AudioCodec": "AC3",
+    "HD": 1,
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v882"
+  },
+  {
+    "GuideNumber": "884",
+    "GuideName": "MTVHD",
+    "VideoCodec": "H264",
+    "AudioCodec": "AC3",
+    "HD": 1,
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v884"
+  },
+  {
+    "GuideNumber": "886",
+    "GuideName": "VH1HD",
+    "VideoCodec": "H264",
+    "AudioCodec": "AC3",
+    "HD": 1,
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v886"
+  },
+  {
+    "GuideNumber": "887",
+    "GuideName": "UPHD",
+    "VideoCodec": "H264",
+    "AudioCodec": "AC3",
+    "HD": 1,
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v887"
+  },
+  {
+    "GuideNumber": "889",
+    "GuideName": "AMCHD",
+    "VideoCodec": "H264",
+    "AudioCodec": "AC3",
+    "HD": 1,
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v889"
+  },
+  {
+    "GuideNumber": "894",
+    "GuideName": "HMMHD",
+    "VideoCodec": "H264",
+    "AudioCodec": "AC3",
+    "HD": 1,
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v894"
+  },
+  {
+    "GuideNumber": "895",
+    "GuideName": "LMNHD",
+    "VideoCodec": "H264",
+    "AudioCodec": "AC3",
+    "HD": 1,
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v895"
+  },
+  {
+    "GuideNumber": "896",
+    "GuideName": "OWNHD",
+    "VideoCodec": "H264",
+    "AudioCodec": "AC3",
+    "HD": 1,
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v896"
+  },
+  {
+    "GuideNumber": "899",
+    "GuideName": "IDHD",
+    "VideoCodec": "H264",
+    "AudioCodec": "AC3",
+    "HD": 1,
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v899"
+  },
+  {
+    "GuideNumber": "900",
+    "GuideName": "NEWSNTN",
+    "VideoCodec": "H264",
+    "AudioCodec": "AC3",
+    "HD": 1,
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v900"
+  },
+  {
+    "GuideNumber": "924",
+    "GuideName": "GSNHD",
+    "VideoCodec": "H264",
+    "AudioCodec": "AC3",
+    "HD": 1,
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v924"
+  },
+  {
+    "GuideNumber": "930",
+    "GuideName": "BBCAHD",
+    "VideoCodec": "H264",
+    "AudioCodec": "AC3",
+    "HD": 1,
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v930"
+  },
+  {
+    "GuideNumber": "931",
+    "GuideName": "OXYGNHD",
+    "VideoCodec": "H264",
+    "AudioCodec": "AC3",
+    "HD": 1,
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v931"
+  },
+  {
+    "GuideNumber": "935",
+    "GuideName": "UKIDSH",
+    "VideoCodec": "H264",
+    "AudioCodec": "AC3",
+    "HD": 1,
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v935"
+  },
+  {
+    "GuideNumber": "941",
+    "GuideName": "CSPANHD",
+    "VideoCodec": "H264",
+    "AudioCodec": "AC3",
+    "HD": 1,
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v941"
+  },
+  {
+    "GuideNumber": "942",
+    "GuideName": "CSPN2HD",
+    "VideoCodec": "H264",
+    "AudioCodec": "AC3",
+    "HD": 1,
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v942"
+  },
+  {
+    "GuideNumber": "945",
+    "GuideName": "EWTNHD",
+    "VideoCodec": "H264",
+    "AudioCodec": "AC3",
+    "HD": 1,
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v945"
+  },
+  {
+    "GuideNumber": "1002",
+    "GuideName": "WMARDT",
+    "VideoCodec": "H264",
+    "AudioCodec": "AC3",
+    "HD": 1,
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v1002"
+  },
+  {
+    "GuideNumber": "1014",
+    "GuideName": "WFDC",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v1014"
+  },
+  {
+    "GuideNumber": "1018",
+    "GuideName": "HSNHD",
+    "VideoCodec": "H264",
+    "AudioCodec": "AC3",
+    "HD": 1,
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v1018"
+  },
+  {
+    "GuideNumber": "1022",
+    "GuideName": "MPTHD",
+    "VideoCodec": "H264",
+    "AudioCodec": "AC3",
+    "HD": 1,
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v1022"
+  },
+  {
+    "GuideNumber": "1024",
+    "GuideName": "WBFFDT2",
+    "VideoCodec": "H264",
+    "AudioCodec": "AC3",
+    "HD": 1,
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v1024"
+  },
+  {
+    "GuideNumber": "1026",
+    "GuideName": "WETADT",
+    "VideoCodec": "H264",
+    "AudioCodec": "AC3",
+    "HD": 1,
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v1026"
+  },
+  {
+    "GuideNumber": "1032",
+    "GuideName": "WHUTDT",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "HD": 1,
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v1032"
+  },
+  {
+    "GuideNumber": "1052",
+    "GuideName": "HSN2",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v1052"
+  },
+  {
+    "GuideNumber": "1075",
+    "GuideName": "PUACC",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v1075"
+  },
+  {
+    "GuideNumber": "1076",
+    "GuideName": "LA",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v1076"
+  },
+  {
+    "GuideNumber": "1085",
+    "GuideName": "CHARMHD",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v1085"
+  },
+  {
+    "GuideNumber": "1090",
+    "GuideName": "BCSTVHD",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v1090"
+  },
+  {
+    "GuideNumber": "1091",
+    "GuideName": "CCBC71",
+    "VideoCodec": "MPEG2",
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v1091"
+  },
+  {
+    "GuideNumber": "1093",
+    "GuideName": "TOWSON7",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v1093"
+  },
+  {
+    "GuideNumber": "1095",
+    "GuideName": "FETV",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v1095"
+  },
+  {
+    "GuideNumber": "1097",
+    "GuideName": "BCOULA",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v1097"
+  },
+  {
+    "GuideNumber": "1995",
+    "GuideName": "CSCT",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "Favorite": 1,
+    "URL": "http://192.168.1.22:5004/auto/v1995"
+  }
+]

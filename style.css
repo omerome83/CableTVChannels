@@ -80,28 +80,26 @@ select {
 /* End of CSS Reset */
 
 body {
+  display: grid;
+  place-content: center;
   font-family: "Monda", sans-serif;
 }
 
 .container {
   display: grid;
   max-width: 50em;
-  justify-content: center;
-  align-items: center;
+  place-content: center;
   text-align: center;
-  margin: auto;
 }
 
 .channel-container {
   display: grid;
   grid-template-columns: repeat(5, 1fr);
-  justify-content: center;
-  align-items: center;
+  place-content: center;
   text-align: center;
   gap: 2em;
   max-width: 40em;
   padding: 2em;
-  margin: auto;
 }
 
 .hd-channels-btn,
@@ -112,6 +110,14 @@ body {
   filter: drop-shadow(2px 2px 2px rgba(0, 0, 0, 0.5));
   border-radius: 0.5em;
   text-decoration: none;
+}
+
+.hd-channels-btn {
+  background-color: chocolate;
+  color: white;
+}
+
+.all-channels-btn {
   background-color: cornflowerblue;
   color: white;
 }
@@ -128,9 +134,9 @@ body {
 }
 
 .channel-card:nth-child(odd) {
-  background-color: darkseagreen;
+  background-color: antiquewhite;
 }
 
 .channel-card:nth-child(even) {
-  background-color: antiquewhite;
+  background-color: darkseagreen;
 }

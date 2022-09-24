@@ -6,5 +6,5 @@ A page which displays a list of subscribed cable tv channels from my HDHomeRun P
 ![](./screenshot.png)
 
 ## URL
-https://omerome83.github.io/ComcastChannels
+https://omerome83.github.io/CableTVChannels
  

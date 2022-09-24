@@ -94,7 +94,13 @@ body {
   text-align: center;
 }
 
-.channel-container {
+.channels-type-container {
+  display: grid;
+  padding: 1em;
+  grid-template-columns: repeat(3, 1fr);
+}
+
+.channel-card-container {
   display: grid;
   grid-template-columns: repeat(5, 1fr);
   place-content: center;
@@ -108,34 +114,18 @@ body {
   color: #c8001d;
 }
 
-.channel-number {
-  color: chocolate;
-  font-size: 0.85em;
-}
-
-.hd-channels-btn,
-.all-channels-btn {
-  border: 0;
-  margin: 1em;
-  padding: 0.5em 1.25em;
-  filter: drop-shadow(2px 2px 2px rgba(0, 0, 0, 0.5));
-  border-radius: 0.5em;
+.sd-channels,
+.hd-channels,
+.all-channels {
   text-decoration: none;
   font-weight: 700;
+  color: chocolate;
 }
 
-.hd-channels-btn {
-  background-color: gold;
-}
-
-.all-channels-btn {
-  background-color: cornflowerblue;
-}
-
-.hd-channels-btn:hover,
-.all-channels-btn:hover {
-  cursor: pointer;
-  opacity: 0.9;
+.sd-channels:hover,
+.hd-channels:hover,
+.all-channels:hover {
+  opacity: 0.75;
 }
 
 .channel-card {

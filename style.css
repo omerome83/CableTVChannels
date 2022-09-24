@@ -83,9 +83,11 @@ body {
   display: grid;
   place-content: center;
   font-family: "Monda", sans-serif;
+  background-color: lightgrey;
 }
 
 .container {
+  margin: 2em 0;
   display: grid;
   max-width: 50em;
   place-content: center;
@@ -102,6 +104,15 @@ body {
   padding: 2em;
 }
 
+.container h1 span {
+  color: #c8001d;
+}
+
+.channel-number {
+  color: chocolate;
+  font-size: 0.85em;
+}
+
 .hd-channels-btn,
 .all-channels-btn {
   border: 0;
@@ -110,11 +121,11 @@ body {
   filter: drop-shadow(2px 2px 2px rgba(0, 0, 0, 0.5));
   border-radius: 0.5em;
   text-decoration: none;
+  font-weight: 700;
 }
 
 .hd-channels-btn {
-  background-color: chocolate;
-  color: white;
+  background-color: gold;
 }
 
 .all-channels-btn {

@@ -46,7 +46,7 @@ const formatChannels = (channels) => {
 
   card.innerHTML = html;
 
-  channelCount.innerHTML = `Channels (${channels.length})`;
+  channelCount.innerHTML = `Channels (<span class="channel-number">${channels.length}</span>)`;
 };
 
 getChannels();

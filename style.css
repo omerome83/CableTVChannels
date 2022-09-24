@@ -142,6 +142,7 @@ body {
 .channel-card {
   border-radius: 1em;
   padding: 1em;
+  border: 1px solid #878787;
 }
 
 .channel-card:nth-child(odd) {

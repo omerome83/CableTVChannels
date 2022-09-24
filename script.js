@@ -2,7 +2,7 @@ const channelsContainer = document.querySelector(".my-channels-container");
 const channelCount = document.querySelector(".my-channels-container h2");
 const hdChannelsButton = document.querySelector(".hd-channels-btn");
 const allChannelsButton = document.querySelector(".all-channels-btn");
-const channelName = document.querySelector(".channel-card h4");
+const channelName = document.querySelector(".channel-card h3");
 const channelNumber = document.querySelector(".channel-card p");
 const card = document.querySelector(".channel-container");
 
@@ -38,7 +38,7 @@ const formatChannels = (channels) => {
   channels.forEach((element) => {
     html += `
           <div class="channel-card">
-            <h4>${element.name}</h4>
+            <h3>${element.name}</h3>
             <p>${element.number}</p>
           </div>
       `;

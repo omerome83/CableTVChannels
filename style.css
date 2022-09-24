@@ -85,7 +85,7 @@ body {
 
 .container {
   display: grid;
-  max-width: 75em;
+  max-width: 50em;
   justify-content: center;
   align-items: center;
   text-align: center;
@@ -94,12 +94,12 @@ body {
 
 .channel-container {
   display: grid;
-  grid-template-columns: repeat(7, 1fr);
+  grid-template-columns: repeat(5, 1fr);
   justify-content: center;
   align-items: center;
   text-align: center;
   gap: 2em;
-  max-width: 50em;
+  max-width: 40em;
   padding: 2em;
   margin: auto;
 }

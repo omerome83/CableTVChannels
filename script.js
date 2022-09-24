@@ -7,29 +7,35 @@ const channelNumber = document.querySelector(".channel-card p");
 const card = document.querySelector(".channel-container");
 
 const getChannels = async () => {
-  const response = await fetch("./data/lineup.json");
-  const data = await response.json();
+  try {
+    const response = await fetch("./data/lineup.json");
+    const data = await response.json();
 
-  const channels = data.map((element) => {
-    const channel = {
-      name: element.GuideName,
-      number: element.GuideNumber,
-      hd: element.HD,
-    };
+    const channels = data.map((element) => {
+      const channel = {
+        name: element.GuideName,
+        number: element.GuideNumber,
+        hd: element.HD,
+      };
 
-    return channel;
-  });
+      return channel;
+    });
 
-  hdChannelsButton.addEventListener("click", () => {
-    const hdChannels = channels.filter((element) => element.hd === 1);
-    formatChannels(hdChannels);
-  });
+    hdChannelsButton.addEventListener("click", () => {
+      const hdChannels = channels.filter((element) => element.hd === 1);
+      formatChannels(hdChannels);
+    });
 
-  allChannelsButton.addEventListener("click", () => {
+    allChannelsButton.addEventListener("click", () => {
+      formatChannels(channels);
+    });
+
     formatChannels(channels);
-  });
 
-  formatChannels(channels);
+    return data;
+  } catch (error) {
+    console.log(error);
+  }
 };
 
 const formatChannels = (channels) => {

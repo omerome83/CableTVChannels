@@ -1,6 +1,6 @@
 # ComcastChannels
 
-A page that displays a .json list of subscribed channels from Comcast. You can sort between the HD channels or all the channels.
+A page that displays a of subscribed channels from Comcast via my HDHomeRun Prime device. It then provides a .json file which you can then filter between HD channels or all channels.
 
 ## Screenshot
 ![](./screenshot.png)

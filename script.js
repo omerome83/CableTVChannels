@@ -15,7 +15,7 @@ const getChannels = async () => {
       const channel = {
         name: element.GuideName,
         number: element.GuideNumber,
-        hd: element.HD,
+        hd: element.HD === 1 ? 1 : 0,
       };
 
       return channel;
